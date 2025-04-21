@@ -38,6 +38,13 @@ a:hover{
   color: green;
 }
 
+.card{
+  background-color: white;
+  border:black;
+  border-radius: 3px;
+  box-shadow: 5px;
+}
+
 @media (max-width: 960px) {
   /* For a screen < 960px, this CSS will be read */
   .container {
